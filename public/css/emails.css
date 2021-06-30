@@ -1,0 +1,17 @@
+.table-xs {
+    font-size: 14px;
+    border-bottom: 1px solid #e9ecef;
+}
+.table-xs th {
+    padding: 1px;
+}
+
+.table-xs td {
+    padding: 0;
+    font-size: 13px;
+    border-right: 1px solid #ffc1071f;
+    vertical-align: unset;
+    height: 20px;
+    font-weight: 500;
+    line-height: 18px;
+}
